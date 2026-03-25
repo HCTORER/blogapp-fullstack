@@ -163,3 +163,6 @@ C:\Users\hctor\OneDrive\Desktop\hasanctdev\BlogApp\backend\BlogApi\bin\Debug\net
 C:\Users\hctor\OneDrive\Desktop\hasanctdev\BlogApp\backend\BlogApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\hctor\OneDrive\Desktop\hasanctdev\BlogApp\backend\BlogApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\hctor\OneDrive\Desktop\hasanctdev\BlogApp\backend\BlogApi\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\hctor\OneDrive\Desktop\hasanctdev\BlogApp\backend\BlogApi\bin\Debug\net9.0\Npgsql.dll
+C:\Users\hctor\OneDrive\Desktop\hasanctdev\BlogApp\backend\BlogApi\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\hctor\OneDrive\Desktop\hasanctdev\BlogApp\backend\BlogApi\obj\Debug\net9.0\BlogApi.sourcelink.json
